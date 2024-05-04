@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,24 @@
   to {
     transform: rotate(360deg);
   }
+}*/
+.App h2{
+ font-family: "Briem Hand", cursive;
+ color: aliceblue;
+ text-align:center;
+ font-size: 35px;
+ width:1000px ;
+ text-shadow:0px 5px 5px rgb(117, 174, 225);
+ margin-top:-20px ;
+}
+.App h1{
+   font-family: "Briem Hand", cursive;
+   text-align:center ;
+   font-size:70px ;
+   text-shadow:0px 7px 7px grey;
+}
+.App {
+  margin-top: -40px;
+  background: rgb(176,156,227);
+background: radial-gradient(circle, rgba(176,156,227,1) 51%, rgba(70,177,228,1) 100%);
 }
