@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sindhuKu3/DragDrop.git/static/css/main.0dc8b1cc.css",
+    "main.js": "/sindhuKu3/DragDrop.git/static/js/main.a1c50a5e.js",
+    "static/js/453.d4e0d9f2.chunk.js": "/sindhuKu3/DragDrop.git/static/js/453.d4e0d9f2.chunk.js",
+    "index.html": "/sindhuKu3/DragDrop.git/index.html",
+    "main.0dc8b1cc.css.map": "/sindhuKu3/DragDrop.git/static/css/main.0dc8b1cc.css.map",
+    "main.a1c50a5e.js.map": "/sindhuKu3/DragDrop.git/static/js/main.a1c50a5e.js.map",
+    "453.d4e0d9f2.chunk.js.map": "/sindhuKu3/DragDrop.git/static/js/453.d4e0d9f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dc8b1cc.css",
+    "static/js/main.a1c50a5e.js"
+  ]
+}
